@@ -1,0 +1,18 @@
+//Node Modules
+
+. npm init      //to initialize package.json
+-> package name: (examples) node-example
+-> version: (1.0.0)
+-> description: Simple node example
+-> entry point: (index.js)
+-> test command:
+-> git repository:
+-> keywords:
+-> author: satish kumar
+-> license: (ISC)
+
+. Update package.json
+-> "scripts" => "start": "node index"
+
+. Start Node.js Project
+-> npm start
